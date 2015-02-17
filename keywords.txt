@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map for L29NDriver
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+L29N_Motor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+run	KEYWORD2
+setSpeed	KEYWORD2
+getState	KEYWORD2
+getDirection	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+FORWARD	LITERAL1
+BACKWARD	LITERAL1
+BRAKE	LITERAL1
+NOPWM   LITERAL1
+RELEASE	LITERAL1
+MOTOR_L LITERAL1
+MOTOR_R LITERAL1
